@@ -8,18 +8,6 @@
 
 <h4 align="center"> Share what you know, spark the glow </h4>
 
-<p align="center">
-    <img src="https://img.shields.io/github/stars/GboyGud/mahavpn?style=for-the-badge&color=orange">
-    <img src="https://img.shields.io/github/forks/GboyGud/mahavpn?style=for-the-badge&color=purple">
-    <img src="https://img.shields.io/github/license/GboyGud/mahavpn?style=for-the-badge&color=blue">
-    <img src="https://img.shields.io/github/issues/GboyGud/mahavpn?style=for-the-badge&color=red">
-    <img src="https://img.shields.io/github/contributors/GboyGud/mahavpn?style=for-the-badge&color=cyan">
-<br>
-    <img src="https://img.shields.io/badge/Author-@AfthonPc-magenta?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-No-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
-    <img src="https://img.shields.io/badge/Made%20In-Jember, Jawa Timur, Indonesia-green?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Indonesia-blue?style=flat-square">
 <div align="center">
   <img src="https://kasroudra-stats-card.onrender.com/user?user=GboyGud&theme=radical&layout=compact" alt="GitHub Stats">
 </div>
