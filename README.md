@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/GboyGud/mahavpn/main/images/banner.jpg?sanitize=true"
         height="400" width="600">
     
-<h2\1 align="center"><u>MAHAVPN-STORE</u></h1>
+<h1 align="center"><u>MAHAVPN-STORE</u></h1>
 
 <h2 align="center">Share what you know, spark the glow</h2>
 
