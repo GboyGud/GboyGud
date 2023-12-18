@@ -20,6 +20,12 @@
     <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=onedark&type=donut">
 </div>
 
+### [+] Description
+REPO INI DIBUAT UNTUK MEDIA BELAJAR BAGI MEMBER MAHAVPN. BEBERAPA SCRIPT MEMERLUKAN PASSWORD UNTUK MENJALANKANNYA. ANDA BISA BERGABUNG DENGAN KAMI DI TELEGRAM.
+
+### [+] Disclaimer 
+Semua tutorial/config yang dibuat tidak untuk dijualbelikan
+
 - ⚡ I am the owner of MahaVPN. Support me by subscribing to MahaVPN premium VPN services.
 - 🔭 I’m currently learning Shell & Python.
 - 🌱 My hobby is vocal exercises, researching a hadith, and tilawatil quran.
