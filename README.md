@@ -1,12 +1,13 @@
 ### Hello, I am GoodBoy Owner MahaVPN  👋
 
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/GboyGud/mahavpn/main/images/banner.jpg?sanitize=true"
         height="400" width="600">
     
-<h2 align="center"><u>MAHAVPN-STORE</u></h2>
+<h2\1 align="center"><u>MAHAVPN-STORE</u></h1>
 
-<h1 align="center">Share what you know, spark the glow</h1>
+<h2 align="center">Share what you know, spark the glow</h2>
 
 <div align="center">
   <img src="https://kasroudra-stats-card.onrender.com/user?user=GboyGud&theme=radical&layout=compact" alt="GitHub Stats">
