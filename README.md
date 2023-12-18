@@ -18,6 +18,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GboyGud&repo=mahavpn&theme=radical">
 </div>
+<div align="center">
+    <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=gruvbox&layout=compact&type=donut">
+</div>
 
 ### [+] Description
 REPO INI DIBUAT UNTUK MEDIA BELAJAR BAGI MEMBER MAHAVPN. BEBERAPA SCRIPT MEMERLUKAN PASSWORD UNTUK MENJALANKANNYA. ANDA BISA BERGABUNG DENGAN KAMI DI TELEGRAM.
