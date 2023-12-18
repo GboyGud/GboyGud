@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/GboyGud/mahavpn/main/images/banner.jpg?sanitize=true"
         height="400" width="600">
     
-<h2 align="center"><u>MAHAVPN-STORE</u></h2>
+<h2 align="center"><u># MAHAVPN-STORE</u></h2>
 
 <h4 align="center"> Share what you know, spark the glow </h4>
 
@@ -14,9 +14,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GboyGud&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
 </div>    
-<br>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GboyGud&repo=mahavpn&theme=radical">
-</p>
+</div>
 
 ### [+] Description
 REPO INI DIBUAT UNTUK MEDIA BELAJAR BAGI MEMBER MAHAVPN. BEBERAPA SCRIPT MEMERLUKAN PASSWORD UNTUK MENJALANKANNYA. ANDA BISA BERGABUNG DENGAN KAMI DI TELEGRAM.
