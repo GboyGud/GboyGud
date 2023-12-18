@@ -20,6 +20,10 @@
     <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=onedark&type=donut">
 </div>
 
+
+<div align="center">
+    # ABOUT ME
+</div>    
 - ⚡ I am the owner of MahaVPN. Support me by subscribing to MahaVPN premium VPN services.
 - 🔭 I’m currently learning Shell & Python.
 - 🌱 My hobby is vocal exercises, researching a hadith, and tilawatil quran.
