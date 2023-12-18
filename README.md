@@ -14,12 +14,9 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GboyGud&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
-</div>    
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GboyGud&repo=mahavpn&theme=radical">
 </div>
 <div align="center">
-    <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=gruvbox&layout=compact&type=donut">
+    <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=onedark&type=donut">
 </div>
 
 ### [+] Description
