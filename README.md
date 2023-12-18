@@ -1,6 +1,7 @@
 ### Hello, I am GoodBoy Owner MahaVPN  👋
-
-
+<br>
+<br>
+<br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/GboyGud/mahavpn/main/images/banner.jpg?sanitize=true"
         height="400" width="600">
@@ -16,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GboyGud&show_icons=true&include_all_commits=true&theme=radical&hide_title=true" alt="GitHub Stats">
 </div>
 <div align="center">
-    <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=onedark&type=donut">
+    <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=onedark&type=donut&hide_title=true">
 </div>
 
 ### [+] Description
