@@ -17,15 +17,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GboyGud&show_icons=true&include_all_commits=true&theme=radical&hide_title=true" alt="GitHub Stats">
 </div>
 <div align="center">
-    <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=onedark&type=donut&hide_title=true">
+    <img src="https://kasroudra-stats-card.onrender.com/lang?user=GboyGud&theme=onedark&type=donut">
 </div>
 
-### [+] Description
-REPO INI DIBUAT UNTUK MEDIA BELAJAR BAGI MEMBER MAHAVPN. BEBERAPA SCRIPT MEMERLUKAN PASSWORD UNTUK MENJALANKANNYA. ANDA BISA BERGABUNG DENGAN KAMI DI TELEGRAM.
-
-### [+] Disclaimer 
-Semua tutorial/config yang dibuat tidak untuk dijualbelikan
-
+- ⚡ I am the owner of MahaVPN. Support me by subscribing to MahaVPN premium VPN services.
+- 🔭 I’m currently learning Shell & Python.
+- 🌱 My hobby is vocal exercises, researching a hadith, and tilawatil quran.
+- 👯 Sometimes, I enjoy playing games and watching movies in my free time.
+- 🤔 I have experience in VPN management, creating OpenClash configurations, operating OpenRT, and developing one-click scripts.
+-->
+  
 ### [+] SUPPORT ME ON
 <div>
   <a href="https://t.me/MahaVPN_Channel/169" target="_blank"><img src="https://img.shields.io/badge/Price%20list%20VPN%20Premium%20MahaVPN-ff4444"></a>
@@ -36,13 +37,3 @@ Semua tutorial/config yang dibuat tidak untuk dijualbelikan
 <div>
   <a href="https://t.me/MahaVPN_Publicgroup" target="_blank"><img src="https://img.shields.io/badge/Grup_Publik-@MahaVPN_Publicgroup-blue?style=for-the-badge&logo=telegram"></a>
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
