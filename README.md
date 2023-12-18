@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am GoodBoy Owner MahaVPN  👋
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/GboyGud/mahavpn/main/images/banner.jpg?sanitize=true"
@@ -20,6 +20,12 @@
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Made%20In-Jember, Jawa Timur, Indonesia-green?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Indonesia-blue?style=flat-square">
+<div align="center">
+  <img src="https://kasroudra-stats-card.onrender.com/user?user=GboyGud&theme=radical&layout=compact" alt="GitHub Stats">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GboyGud&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
+</div>    
 <br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GboyGud&repo=mahavpn&theme=radical">
 </p>
